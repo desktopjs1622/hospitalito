@@ -2,6 +2,3 @@ Include/
 Lib/
 Scripts/
 pyvenv.cfg
-hospitalito/.vscode/
-hospitalito/db.sqlite3
-hospitalito/manage.py
